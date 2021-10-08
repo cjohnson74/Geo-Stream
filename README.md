@@ -1,7 +1,6 @@
-# hypertext-assassins-project 
+# GeoStream
 A quick and intuitive movie search for the dinner consuming personage.
 
-# hypertext-assassins-project
 ## Description
 Our project is a movie finder app that helps you find where you can watch your favorite or any other shows. We have included a most popular section that gives the user the most popular show at the that time. We've added a settings navigation icon and modal that will help the user pick prefered steaming services.
 
