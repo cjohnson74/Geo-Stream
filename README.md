@@ -4,9 +4,8 @@ A quick and intuitive movie search for the dinner consuming personage.
 ## Description
 Our project is a movie finder app that helps you find where you can watch your favorite or any other shows. We have included a most popular section that gives the user the most popular show at the that time. We've added a settings navigation icon and modal that will help the user pick prefered steaming services.
 
-## Links
-you can find our github code here.
-https://graybishop.github.io/Geo-Stream/
+## Live Site
+https://cjohnson74.github.io/Geo-Stream/
 
 ## Screenshots
 ![Screenshot (48)](https://user-images.githubusercontent.com/87917345/136581935-de998667-4eb5-4993-917a-cad42e68cf38.png)
