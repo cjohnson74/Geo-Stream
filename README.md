@@ -58,5 +58,3 @@ https://www.imdb.com/
 http://www.omdbapi.com/
 https://www.themoviedb.org/?language=en-US
 
-
-### The Movie Database
